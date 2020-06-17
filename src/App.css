@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  color: aliceblue;
+  background-color: #282c34;
+
+
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+a {
+  color: aliceblue;
+  margin: 3vh;
+
+}
+
+.info {
+  text-align: center;
+  color: #282c34;
+  background-color: aliceblue;
+
+
+  min-height: 100vh;
+  min-width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+p {
+  max-width: 60%;
+}
